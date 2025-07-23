@@ -1,0 +1,9 @@
+# Folder dependensi Node.js (ukurannya sangat besar)
+node_modules
+
+# Folder cache dan data sesi login whatsapp-web.js (berisi data sensitif)
+.wwebjs_auth/
+
+# File log atau file environment (jika ada)
+.env
+*.log
